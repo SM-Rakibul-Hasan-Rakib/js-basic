@@ -14,8 +14,10 @@
 //   console.log(number);
 // }
 
-const fruits = [apple, orange , banana, java, javascript, python, ];
-console.log(fruits);
+
+const fruits = ['apple', 'orange', 'banana', 'jackfoot', 'lemon'];
+
 for(const fruit of fruits){
   console.log(fruit);
+  console.log('I do not eat in banana!')
 }
