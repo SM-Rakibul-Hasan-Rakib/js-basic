@@ -26,3 +26,6 @@ var name = ["rafi", "rakib", "sifat", "sohel", "emon", "tamim", "saghor", "shafi
 name[4] = "faw khaila khaw na khaila bhari jaw";
  
 console.log(name);
+
+name = "faw khaila ghaw hoi";
+console.log(name);
