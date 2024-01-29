@@ -21,11 +21,21 @@
 
 // console.log(fru);
 // array in 
-var name = ["rafi", "rakib", "sifat", "sohel", "emon", "tamim", "saghor", "shafin"]
+// var name = ["rafi", "rakib", "sifat", "sohel", "emon", "tamim", "saghor", "shafin"]
 
-name[4] = "faw khaila khaw na khaila bhari jaw";
+// name[4] = "faw khaila khaw na khaila bhari jaw";
  
-console.log(name);
+// console.log(name);
 
-name = "faw khaila ghaw hoi";
-console.log(name);
+// name = "faw khaila ghaw hoi";
+// console.log(name);
+
+// .......................
+
+// array eith 5 elements containing fruits
+var fruits = ["apple", "orange", "banana", "tourmhuj", "khola"];
+fruits[3] = "nai kiso";
+console.log(fruits[3]);
+
+fruits = "khaila khaw na khaila na khaw";
+console.log(fruits)
