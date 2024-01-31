@@ -1,4 +1,5 @@
 // my cat
+
 const myPet = {
  name : "Travis",
  age : 2,
@@ -7,7 +8,8 @@ const myPet = {
  color : "white",
  specis : "Hullo biral"
 };
-for(let key in myPet) {
-  let value = myPet[key];
-  console.log(value);
-}
+// for(let key in myPet) {
+//   let value = myPet[key];
+//   console.log(value);
+// }
+console.log(Object.keys(myPet));
